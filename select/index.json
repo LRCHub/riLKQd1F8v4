@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "バレリーコ (Cover)",
+  "base_artist": "ダズビー",
+  "createdAt": "2026-03-11T03:58:03.381602Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "ダズビー",
+      "has_synced": false,
+      "path": "select/01_バレリーコ_ダズビー.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "luz",
+      "has_synced": true,
+      "path": "select/02_バレリーコ_luz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "sakuya",
+      "has_synced": true,
+      "path": "select/03_バレリーコ_sakuya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "Mikito-P",
+      "has_synced": true,
+      "path": "select/04_バレリーコ_Mikito-P.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "Mikito P",
+      "has_synced": true,
+      "path": "select/05_バレリーコ_Mikito_P.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "Kano",
+      "has_synced": true,
+      "path": "select/06_バレリーコ_Kano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "神田沙也加",
+      "has_synced": true,
+      "path": "select/07_バレリーコ_神田沙也加.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/08_バレリーコ_VA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/09_バレリーコ_DAZBEE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "みきとP",
+      "has_synced": true,
+      "path": "select/10_バレリーコ_みきとP.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "ゆある",
+      "has_synced": true,
+      "path": "select/11_バレリーコ_ゆある.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "バレリーコ",
+      "artist": "うらたぬき&となりの坂田。",
+      "has_synced": true,
+      "path": "select/12_バレリーコ_うらたぬき&となりの坂田。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バレリーコ",
+      "artist": "ダズビー",
+      "has_synced": false,
+      "path": "select/pl_01_バレリーコ_ダズビー.txt"
+    }
+  ]
+}
